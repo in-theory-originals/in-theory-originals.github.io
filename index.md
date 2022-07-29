@@ -1,4 +1,4 @@
-## In Theory
+# In Theory
 
 ### oil on canvas
 
