@@ -1,3 +1,5 @@
+<!--
+
 # In Theory
 
 ### oil on canvas
@@ -6,3 +8,5 @@
 
 ### book: 
 ### contact:  in.theory.originals@gmail.com
+
+-->
