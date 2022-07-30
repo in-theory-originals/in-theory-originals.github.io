@@ -6,7 +6,7 @@
 
 <IMG ALIGN=CENTER SRC="in-theory-cover.jpg"> 
 
-### book: 
+### book: <a href="https://www.amazon.com">get it here</a>
 ### contact:  in.theory.originals@gmail.com
 
 -->
