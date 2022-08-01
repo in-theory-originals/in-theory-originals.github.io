@@ -1,6 +1,6 @@
 
 
-# In Theory: oil on canvas
+# In Theory
 
 ### book: <a href="https://www.amazon.com">get it here</a>
 ### contact:  <a href="mailto:in.theory.originals@gmail.com">in.theory.originals@gmail.com</a>
