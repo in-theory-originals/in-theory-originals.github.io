@@ -2,8 +2,9 @@
 
 ### book: <a href="https://www.amazon.com/gp/product/B0B92HRJWG/ref=crt_ewc_img_dp_1?ie=UTF8&psc=1&smid=ATVPDKIKX0DER">get it here</a>
 
-
+<p><a href="https://www.amazon.com/gp/product/B0B92HRJWG/ref=crt_ewc_img_dp_1?ie=UTF8&psc=1&smid=ATVPDKIKX0DER">
 <IMG ALIGN=CENTER SRC="in-theory-cover-final2.png"> 
+  </a></p>
 
 ### contact:  <a href="mailto:in.theory.originals@gmail.com">in.theory.originals@gmail.com</a>
   
@@ -11,6 +12,6 @@
 
 <hr>
   
-### about the author: <a href="https://kevincrawfordknight.github.io/">Kevin Knight</a> has served as a professor of computer science, chief scientist at several startups, and president of his international scientific society. He is currently splitting his time between indoors and outdoors. 
+### about the author: <a href="https://kevincrawfordknight.github.io/">Kevin Knight</a> has served as a professor of computer science, chief scientist, and president of his international scientific society. He is currently splitting his time between indoors and outdoors. 
 
 
