@@ -8,7 +8,7 @@
 <IMG ALIGN=CENTER SRC="in-theory-cover-final2.png"> 
   </a></p>
 
-### Available: <a href="https://www.amazon.com/gp/product/B0B92HRJWG/ref=crt_ewc_img_dp_1?ie=UTF8&psc=1&smid=ATVPDKIKX0DER">here</a>.
+### Available <a href="https://www.amazon.com/gp/product/B0B92HRJWG/ref=crt_ewc_img_dp_1?ie=UTF8&psc=1&smid=ATVPDKIKX0DER">here</a>.
   
 <hr>
   
