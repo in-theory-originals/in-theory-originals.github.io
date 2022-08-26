@@ -4,6 +4,8 @@
 ### Get book <a href="https://www.amazon.com/gp/product/B0B92HRJWG/ref=crt_ewc_img_dp_1?ie=UTF8&psc=1&smid=ATVPDKIKX0DER">here</a>
 -->
 
+### IN THEORY contains high-quality reproductions of 85 original oil paintings by the author. The works are influenced by California culture, vintage propaganda, the inner solar system, and subversive literature.
+
 <p><a href="https://www.amazon.com/gp/product/B0B92HRJWG/ref=crt_ewc_img_dp_1?ie=UTF8&psc=1&smid=ATVPDKIKX0DER">
 <IMG ALIGN=CENTER SRC="in-theory-cover-final2.png"> 
   </a></p>
